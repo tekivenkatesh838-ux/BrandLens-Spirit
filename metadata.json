@@ -1,0 +1,6 @@
+{
+  "name": "BrandLens — AI Brand Governance & Review Queue",
+  "description": "Enterprise brand compliance, tone consistency, and approved facts verification for the SPIRIT AI hackathon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
